@@ -1,0 +1,15 @@
+{
+  "name": "expresss-template",
+  "version": "0.1.0",
+  "description": "Simple File Server (express edition)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sfs"
+  ],
+  "author": "Cosmo058",
+  "license": "ISC"
+}
